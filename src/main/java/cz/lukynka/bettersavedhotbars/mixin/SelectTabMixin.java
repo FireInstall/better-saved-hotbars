@@ -1,7 +1,6 @@
 package cz.lukynka.bettersavedhotbars.mixin;
 
 import cz.lukynka.bettersavedhotbars.BetterSavedHotbars;
-import cz.lukynka.bettersavedhotbars.util.ChatUtils;
 import net.minecraft.client.HotbarManager;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen;
